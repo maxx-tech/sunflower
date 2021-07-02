@@ -1,5 +1,4 @@
-# Android
-- task: AndroidSigning@3
+# Android- task: AndroidSigning@3
   inputs:
     apkFiles: '**/*.apk'
 # Build your Android project with Gradle.
